@@ -16,17 +16,23 @@
 * `pipeline/` : scripts Python pour automatiser les traitements.
 * `export_html/` : visualisations, cartes interactives, exports.
 
-## Exemple: Carte de l'ensemble des événements des Pays-de-la-Loire / Loire-Atlantique / Nantes
+## Exemple: Carte de l'ensemble des événements des Pays-de-la-Loire / Loire-Atlantique / Nantes / Bretagne
 
 ![Texte alternatif](./export_html/carte_interactive_evenements.png "Liste des événements des Pays-de-la-Loire / Loire-Atlantique / Nantes").
 
 <iframe src="./export_html/carte_interactive_evenements.html" width="100%" height="700px"></iframe>
 
-**Source des données:**
-https://data.nantesmetropole.fr/explore/dataset/234400034_070-002_offre-touristique-fetes_et_manifestations-rpdl%40paysdelaloire/table/?disjunctive.commune
-https://data.loire-atlantique.fr/explore/dataset/793866443_hotelleries-de-plein-air-camping-en-loire-atlantique/export/?disjunctive.categorie&disjunctive.commune&location=10,47.38948,-1.78213&basemap=jawg.streets
-https://data.loire-atlantique.fr/explore/dataset/793866443_hebergements-collectifs-touristiques-en-loire-atlantique/table/
+<u>**Source des données:**</u>
 
+**Région Bretagne & Pays-de-la-Loire - Données originales téléchargées sur les sites ci-dessous, mise à jour du 19 Novembre 2025**
+
+<u>Pour les Pays-de-la-Loire:</u>
+* https://data.nantesmetropole.fr/explore/dataset/234400034_070-002_offre-touristique-fetes_et_manifestations-rpdl%40paysdelaloire/table/?disjunctive.commune
+* https://data.loire-atlantique.fr/explore/dataset/793866443_hotelleries-de-plein-air-camping-en-loire-atlantique/export/?disjunctive.categorie&disjunctive.commune&location=10,47.38948,-1.78213&basemap=jawg.streets
+* https://data.loire-atlantique.fr/explore/dataset/793866443_hebergements-collectifs-touristiques-en-loire-atlantique/table/
+
+<u>Pour la Bretagne:</u>
+* https://data.bretagne.bzh/explore/dataset/bretagne-fetes-et-manifestations/export/
 
 ## 🛠️ Technologies utilisées
 
