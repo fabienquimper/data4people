@@ -1,0 +1,89 @@
+dataset;categorie_dataset;categorie_neutre;alias
+pdl;Cirque;Cirque;cirque
+pdl;Théâtre;Arts vivants;arts_vivants
+pdl;Rallye;Sports / Loisirs;sports_loisirs
+pdl;Opéra;Arts vivants;arts_vivants
+pdl;Randonnée;Nature / Environnement;nature_environnement
+pdl;Foire ou salon;Marché / Salon;marche_salon
+pdl;Manifestation sportive;Sports / Loisirs;sports_loisirs
+pdl;Feux d'artifice;Son & Lumière;son_lumiere
+pdl;Spectacle;Arts vivants;arts_vivants
+pdl;Fêtes populaires;Fête traditionnelle;fete_traditionnelle
+pdl;Manifestation Nationale;Événement officiel;evenement_officiel
+pdl;Contes et lectures;Littérature;litterature
+pdl;Festival;Festival;festival
+pdl;Animations de Noël;Animation locale;animation_locale
+pdl;Danse (spectacle);Danse;danse
+pdl;Conférence;Conférence;conference
+pdl;Stages-Atelier-Jeux;Animation locale;animation_locale
+pdl;Exposition;Exposition;exposition
+pdl;Concert;Musique;musique
+pdl;Sortie nature / environnement;Nature / Environnement;nature_environnement
+pdl;Visites et sorties à thèmes;Animation locale;animation_locale
+pdl;Cinéma;Cinéma;cinema
+pdl;Marché;Marché / Salon;marche_salon
+pdl;Brocantes & vide-greniers;Brocante;brocante
+bzh;Culturelle#Manifestation commerciale;Commercial;commercial
+bzh;Animation locale (Kermesse / Loto...)#Religieuse;Religion;religion
+bzh;Autres Evènements#Traditions et folklore, fêtes;Fête traditionnelle;fete_traditionnelle
+bzh;Culturelle#Musique;Musique;musique
+bzh;Animation locale (Kermesse / Loto...)#Traditions et folklore, fêtes;Fête traditionnelle;fete_traditionnelle
+bzh;Animation locale (Kermesse / Loto...)#Culturelle;Animation locale;animation_locale
+bzh;Animation locale (Kermesse / Loto...)#Culturelle#Musique;Musique;musique
+bzh;Traditions et folklore, fêtes;Fête traditionnelle;fete_traditionnelle
+bzh;Animation locale (Kermesse / Loto...)#Culturelle#Insolite;Insolite;insolite
+bzh;Animation locale (Kermesse / Loto...)#Culturelle#Danse#Musique#Traditions et folklore, fêtes;Danse;danse
+bzh;Danse#Insolite#Musique;Danse;danse
+bzh;Culturelle#Danse;Danse;danse
+bzh;Culturelle#Insolite#Musique;Insolite;insolite
+bzh;Insolite#Sports et loisirs;Insolite;insolite
+bzh;Animation locale (Kermesse / Loto...)#Manifestation commerciale#Sports et loisirs;Commercial;commercial
+bzh;Religieuse#Traditions et folklore, fêtes;Religion;religion
+bzh;Culturelle#Danse#Musique;Danse;danse
+bzh;Autres Evènements#Nature et détente;Nature / Environnement;nature_environnement
+bzh;Culturelle#Manifestation commerciale#Musique;Commercial;commercial
+bzh;Sports et loisirs;Sports / Loisirs;sports_loisirs
+bzh;Autres Evènements#Sports et loisirs;Sports / Loisirs;sports_loisirs
+bzh;Danse;Danse;danse
+bzh;Musique#Traditions et folklore, fêtes;Musique;musique
+bzh;Evènement virtuel#Nature et détente#Sports et loisirs;Sports / Loisirs;sports_loisirs
+bzh;Animation locale (Kermesse / Loto...)#Autres Evènements;Animation locale;animation_locale
+bzh;Culturelle#Nature et détente;Nature / Environnement;nature_environnement
+bzh;Manifestation commerciale#Traditions et folklore, fêtes;Commercial;commercial
+bzh;Culturelle#Musique#Traditions et folklore, fêtes;Musique;musique
+bzh;Nature et détente#Sports et loisirs;Nature / Environnement;nature_environnement
+bzh;Culturelle#Traditions et folklore, fêtes;Fête traditionnelle;fete_traditionnelle
+bzh;Son et Lumière#Traditions et folklore, fêtes;Son & Lumière;son_lumiere
+bzh;Musique;Musique;musique
+bzh;Danse#Traditions et folklore, fêtes;Danse;danse
+bzh;Autres Evènements#Insolite;Insolite;insolite
+bzh;Religieuse;Religion;religion
+bzh;Culturelle#Insolite;Insolite;insolite
+bzh;Culturelle#Musique#Son et Lumière;Son & Lumière;son_lumiere
+bzh;Culturelle#Insolite#Son et Lumière;Son & Lumière;son_lumiere
+bzh;Autres Evènements;Animation locale;animation_locale
+bzh;Insolite#Manifestation commerciale;Commercial;commercial
+bzh;Animation locale (Kermesse / Loto...)#Son et Lumière;Son & Lumière;son_lumiere
+bzh;Culturelle;Animation locale;animation_locale
+bzh;Manifestation commerciale;Commercial;commercial
+bzh;Insolite;Insolite;insolite
+bzh;Autres Evènements#Manifestation commerciale;Commercial;commercial
+bzh;Danse#Musique#Traditions et folklore, fêtes;Danse;danse
+bzh;Culturelle#Sports et loisirs;Sports / Loisirs;sports_loisirs
+bzh;Son et Lumière;Son & Lumière;son_lumiere
+bzh;Autres Evènements#Culturelle;Animation locale;animation_locale
+bzh;Animation locale (Kermesse / Loto...)#Autres Evènements#Culturelle;Animation locale;animation_locale
+bzh;Danse#Musique;Danse;danse
+bzh;Insolite#Traditions et folklore, fêtes;Insolite;insolite
+bzh;Culturelle#Insolite#Nature et détente;Nature / Environnement;nature_environnement
+bzh;Animation locale (Kermesse / Loto...)#Culturelle#Insolite#Musique;Musique;musique
+bzh;Culturelle#Religieuse;Religion;religion
+bzh;Culturelle#Son et Lumière;Son & Lumière;son_lumiere
+bzh;Animation locale (Kermesse / Loto...)#Autres Evènements#Culturelle#Nature et détente;Nature / Environnement;nature_environnement
+bzh;Nature et détente;Nature / Environnement;nature_environnement
+bzh;Culturelle#Musique#Religieuse#Traditions et folklore, fêtes;Musique;musique
+bzh;Culturelle#Insolite#Musique#Nature et détente;Nature / Environnement;nature_environnement
+bzh;Autres Evènements#Musique;Musique;musique
+bzh;Animation locale (Kermesse / Loto...);Animation locale;animation_locale
+bzh;Animation locale (Kermesse / Loto...)#Manifestation commerciale#Musique#Son et Lumière#Traditions et folklore, fêtes;Commercial;commercial
+bzh;Animation locale (Kermesse / Loto...)#Sports et loisirs;Sports / Loisirs;sports_loisirs

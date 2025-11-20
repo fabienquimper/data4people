@@ -4,3 +4,7 @@ numpy
 pandas
 pyarrow
 kaleido
+fastapi
+uvicorn
+requests
+transformers
