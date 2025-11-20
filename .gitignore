@@ -1,3 +1,14 @@
 .venvWin/
 .venv/
 __pycache__/
+.config/*.yaml
+data/excel
+data/processed
+.idea/
+notebook_test
+notebooks/export_csv
+notebooks/test
+data/raw/cog_ensemble_2025_csv.zip
+data/raw/cog_ensemble_2025_csv
+data/raw
+extractor/export

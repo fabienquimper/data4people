@@ -1,0 +1,89 @@
+dataset;categorie_dataset;categorie_neutre;alias
+paysdelaloire.csv;Fêtes populaires;Festivals and Celebrations;festivals
+paysdelaloire.csv;Danse (spectacle);Arts and Entertainment;arts
+paysdelaloire.csv;Cirque;Arts and Entertainment;arts
+paysdelaloire.csv;Randonnée;Sports and Leisure;sports
+paysdelaloire.csv;Théâtre;Culture and Heritage;culture
+paysdelaloire.csv;Contes et lectures;Culture and Heritage;culture
+paysdelaloire.csv;Stages-Atelier-Jeux;Arts and Entertainment;arts
+paysdelaloire.csv;Rallye;Rallies and Demonstrations;rallies
+paysdelaloire.csv;Sortie nature / environnement;Nature and Environment;nature
+paysdelaloire.csv;Conférence;Arts and Entertainment;arts
+paysdelaloire.csv;Concert;Concerts and Performances;concerts
+paysdelaloire.csv;Brocantes & vide-greniers;Culture and Heritage;culture
+paysdelaloire.csv;Exposition;Exhibitions and Displays;exhibits
+paysdelaloire.csv;Festival;Festivals and Celebrations;festivals
+paysdelaloire.csv;Cinéma;Arts and Entertainment;arts
+paysdelaloire.csv;Manifestation Nationale;Rallies and Demonstrations;rallies
+paysdelaloire.csv;Animations de Noël;Festivals and Celebrations;festivals
+paysdelaloire.csv;Manifestation sportive;Sports and Leisure;sports
+paysdelaloire.csv;Marché;Community and Social Events;community
+paysdelaloire.csv;Foire ou salon;Exhibitions and Displays;exhibits
+paysdelaloire.csv;Feux d'artifice;Festivals and Celebrations;festivals
+paysdelaloire.csv;Opéra;Culture and Heritage;culture
+paysdelaloire.csv;Spectacle;Arts and Entertainment;arts
+paysdelaloire.csv;Visites et sorties à thèmes;Arts and Entertainment;arts
+bretagne-fetes-et-manifestations.csv;Danse#Musique;Arts and Entertainment;arts
+bretagne-fetes-et-manifestations.csv;Nature et détente#Sports et loisirs;Nature and Environment;nature
+bretagne-fetes-et-manifestations.csv;Insolite;Miscellaneous Events;misc
+bretagne-fetes-et-manifestations.csv;Culturelle#Traditions et folklore, fêtes;Festivals and Celebrations;festivals
+bretagne-fetes-et-manifestations.csv;Religieuse;Religious Events;religion
+bretagne-fetes-et-manifestations.csv;Traditions et folklore, fêtes;Festivals and Celebrations;festivals
+bretagne-fetes-et-manifestations.csv;Sports et loisirs;Sports and Leisure;sports
+bretagne-fetes-et-manifestations.csv;Manifestation commerciale#Traditions et folklore, fêtes;Festivals and Celebrations;festivals
+bretagne-fetes-et-manifestations.csv;Culturelle#Musique;Culture and Heritage;culture
+bretagne-fetes-et-manifestations.csv;Culturelle#Nature et détente;Nature and Environment;nature
+bretagne-fetes-et-manifestations.csv;Culturelle#Religieuse;Culture and Heritage;culture
+bretagne-fetes-et-manifestations.csv;Autres Evènements#Manifestation commerciale;Community and Social Events;community
+bretagne-fetes-et-manifestations.csv;Culturelle#Musique#Traditions et folklore, fêtes;Festivals and Celebrations;festivals
+bretagne-fetes-et-manifestations.csv;Religieuse#Traditions et folklore, fêtes;Festivals and Celebrations;festivals
+bretagne-fetes-et-manifestations.csv;Son et Lumière#Traditions et folklore, fêtes;Festivals and Celebrations;festivals
+bretagne-fetes-et-manifestations.csv;Animation locale (Kermesse / Loto...)#Culturelle#Insolite;Culture and Heritage;culture
+bretagne-fetes-et-manifestations.csv;Animation locale (Kermesse / Loto...)#Manifestation commerciale#Sports et loisirs;Sports and Leisure;sports
+bretagne-fetes-et-manifestations.csv;Culturelle#Son et Lumière;Culture and Heritage;culture
+bretagne-fetes-et-manifestations.csv;Autres Evènements#Musique;Concerts and Performances;concerts
+bretagne-fetes-et-manifestations.csv;Autres Evènements#Sports et loisirs;Sports and Leisure;sports
+bretagne-fetes-et-manifestations.csv;Danse;Arts and Entertainment;arts
+bretagne-fetes-et-manifestations.csv;Son et Lumière;Arts and Entertainment;arts
+bretagne-fetes-et-manifestations.csv;Danse#Traditions et folklore, fêtes;Festivals and Celebrations;festivals
+bretagne-fetes-et-manifestations.csv;Autres Evènements#Culturelle;Culture and Heritage;culture
+bretagne-fetes-et-manifestations.csv;Evènement virtuel#Nature et détente#Sports et loisirs;Nature and Environment;nature
+bretagne-fetes-et-manifestations.csv;Culturelle#Manifestation commerciale#Musique;Culture and Heritage;culture
+bretagne-fetes-et-manifestations.csv;Insolite#Sports et loisirs;Sports and Leisure;sports
+bretagne-fetes-et-manifestations.csv;Culturelle#Insolite#Musique;Culture and Heritage;culture
+bretagne-fetes-et-manifestations.csv;Danse#Musique#Traditions et folklore, fêtes;Festivals and Celebrations;festivals
+bretagne-fetes-et-manifestations.csv;Danse#Insolite#Musique;Concerts and Performances;concerts
+bretagne-fetes-et-manifestations.csv;Animation locale (Kermesse / Loto...)#Autres Evènements;Community and Social Events;community
+bretagne-fetes-et-manifestations.csv;Animation locale (Kermesse / Loto...);Festivals and Celebrations;festivals
+bretagne-fetes-et-manifestations.csv;Autres Evènements#Nature et détente;Nature and Environment;nature
+bretagne-fetes-et-manifestations.csv;Culturelle#Insolite#Musique#Nature et détente;Culture and Heritage;culture
+bretagne-fetes-et-manifestations.csv;Culturelle#Insolite#Son et Lumière;Culture and Heritage;culture
+bretagne-fetes-et-manifestations.csv;Musique#Traditions et folklore, fêtes;Festivals and Celebrations;festivals
+bretagne-fetes-et-manifestations.csv;Animation locale (Kermesse / Loto...)#Autres Evènements#Culturelle#Nature et détente;Arts and Entertainment;arts
+bretagne-fetes-et-manifestations.csv;Autres Evènements#Traditions et folklore, fêtes;Festivals and Celebrations;festivals
+bretagne-fetes-et-manifestations.csv;Autres Evènements;Miscellaneous Events;misc
+bretagne-fetes-et-manifestations.csv;Culturelle#Musique#Son et Lumière;Culture and Heritage;culture
+bretagne-fetes-et-manifestations.csv;Culturelle#Danse#Musique;Culture and Heritage;culture
+bretagne-fetes-et-manifestations.csv;Insolite#Traditions et folklore, fêtes;Festivals and Celebrations;festivals
+bretagne-fetes-et-manifestations.csv;Animation locale (Kermesse / Loto...)#Culturelle;Festivals and Celebrations;festivals
+bretagne-fetes-et-manifestations.csv;Manifestation commerciale;Community and Social Events;community
+bretagne-fetes-et-manifestations.csv;Culturelle#Sports et loisirs;Sports and Leisure;sports
+bretagne-fetes-et-manifestations.csv;Culturelle#Insolite;Culture and Heritage;culture
+bretagne-fetes-et-manifestations.csv;Nature et détente;Nature and Environment;nature
+bretagne-fetes-et-manifestations.csv;Animation locale (Kermesse / Loto...)#Religieuse;Festivals and Celebrations;festivals
+bretagne-fetes-et-manifestations.csv;Animation locale (Kermesse / Loto...)#Sports et loisirs;Sports and Leisure;sports
+bretagne-fetes-et-manifestations.csv;Culturelle#Insolite#Nature et détente;Nature and Environment;nature
+bretagne-fetes-et-manifestations.csv;Animation locale (Kermesse / Loto...)#Son et Lumière;Festivals and Celebrations;festivals
+bretagne-fetes-et-manifestations.csv;Animation locale (Kermesse / Loto...)#Culturelle#Musique;Culture and Heritage;culture
+bretagne-fetes-et-manifestations.csv;Animation locale (Kermesse / Loto...)#Manifestation commerciale#Musique#Son et Lumière#Traditions et folklore, fêtes;Festivals and Celebrations;festivals
+bretagne-fetes-et-manifestations.csv;Animation locale (Kermesse / Loto...)#Culturelle#Insolite#Musique;Festivals and Celebrations;festivals
+bretagne-fetes-et-manifestations.csv;Culturelle#Manifestation commerciale;Culture and Heritage;culture
+bretagne-fetes-et-manifestations.csv;Animation locale (Kermesse / Loto...)#Autres Evènements#Culturelle;Community and Social Events;community
+bretagne-fetes-et-manifestations.csv;Musique;Arts and Entertainment;arts
+bretagne-fetes-et-manifestations.csv;Culturelle#Danse;Culture and Heritage;culture
+bretagne-fetes-et-manifestations.csv;Insolite#Manifestation commerciale;Marketing and Advertising;marketing
+bretagne-fetes-et-manifestations.csv;Autres Evènements#Insolite;Miscellaneous Events;misc
+bretagne-fetes-et-manifestations.csv;Culturelle;;
+bretagne-fetes-et-manifestations.csv;Animation locale (Kermesse / Loto...)#Culturelle#Danse#Musique#Traditions et folklore, fêtes;Festivals and Celebrations;festivals
+bretagne-fetes-et-manifestations.csv;Culturelle#Musique#Religieuse#Traditions et folklore, fêtes;Culture and Heritage;culture
+bretagne-fetes-et-manifestations.csv;Animation locale (Kermesse / Loto...)#Traditions et folklore, fêtes;Festivals and Celebrations;festivals

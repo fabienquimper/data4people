@@ -34,6 +34,33 @@
 <u>Pour la Bretagne:</u>
 * https://data.bretagne.bzh/explore/dataset/bretagne-fetes-et-manifestations/export/
 
+<u>Données BANO / POI de OpenStreetMap (2025/11/25)</u>
+https://www.openstreetmap.fr/donnees/
+
+<u>Données de l'INSEE (Sirène)</u>
+https://www.data.gouv.fr/datasets/base-sirene-des-entreprises-et-de-leurs-etablissements-siren-siret/
+
+<u>Données des codes postaux et codes INSEE / Code officiel géographique au 1er janvier 2025 </u>
+Dataset source: https://www.insee.fr/fr/information/8377162
+Fichiers téléchargés 01/12/2025:
+- ../data/raw/cog_ensemble_2025_csv/v_commune_comer_2025.csv
+- ../data/raw/cog_ensemble_2025_csv/v_commune_2025.csv
+
+<u>Données Base officielle des codes postaux de La Poste</u>
+Source: https://datanova.laposte.fr/datasets/laposte-hexasmal
+Fichier téléchargé le 22/11/2025 : ./data/raw/code_postaux_019HexaSmal_2025_11_22.csv
+
+<u>Données OpenStreetMap BANO</u>
+Source du fichier: https://bano.openstreetmap.fr/data/ - https://www.openstreetmap.fr/donnees/
+Fichier ./data/raw/osm/full.csv/full.csv
+Licence: Ces données sont sous licence ODbL (Open Database Licence). Cette licence implique: l'attribution et le partage à l'identique. Source: BANO
+Téléchargé le 20/11/2025
+
+<u>Points d'intérêts géographiques OpenStreetMap</u>
+Source: https://www.data.gouv.fr/datasets/points-dinterets-openstreetmap/
+Téléchargés le 22/11/2025
+Fichier ./data/raw/osm/poi.csv/poi.csv
+
 ## 🛠️ Technologies utilisées
 
 * **Python** (Polars, Pandas, Plotly, GeoPandas...)

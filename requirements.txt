@@ -4,3 +4,23 @@ numpy
 pandas
 pyarrow
 kaleido
+fastapi
+uvicorn
+requests
+transformers
+geopy
+selenium
+pillow
+pytesseract
+tesseract
+#re
+pyproj
+selenium
+webdriver-manager
+bs4
+ddgs
+unidecode
+xlsxwriter
+# Model to learn
+scikit-learn
+joblib
