@@ -24,3 +24,5 @@ xlsxwriter
 # Model to learn
 scikit-learn
 joblib
+folium
+staticmap

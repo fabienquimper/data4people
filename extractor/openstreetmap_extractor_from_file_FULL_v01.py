@@ -319,11 +319,14 @@ def get_adresse_from_geoloc(osm_full, lat_col, lon_col):
 
 def ajout_adresse(df_osm):
     addresses = []
+
     for r in df_osm.iter_rows(named=True):
         adr = get_adresse_from_geoloc(osm_df_full, r["@lat"], r["@lon"])
-        addresses.append(adr)
+        adr_str = str(adr[0])  # si Series 1 valeur
+        addresses.append(adr_str)
+
     df_osm = df_osm.with_columns(
-        pl.Series("adresse", "".join(addresses))
+        pl.Series("adresse", addresses)
     )
     return df_osm
 

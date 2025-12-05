@@ -12,3 +12,6 @@ data/raw/cog_ensemble_2025_csv.zip
 data/raw/cog_ensemble_2025_csv
 data/raw
 extractor/export
+viz/
+pipeline/
+web/node_modules
